@@ -68,7 +68,7 @@ else:
         show_suppressed           = True,
         #stack_depth               = 0,
         #timestamp_function        = time.perf_counter,
-        top_first                 = True,
+        #top_first                 = False,
         #trace_lines_after         = 0,
         trace_lines_before        = 5,
         truncate_code             = True,
